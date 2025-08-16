@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Elang 👋  
 
-<!--
-**elanghabibi/elanghabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Creative Tech Enthusiast** who loves blending technology with creativity.  
+Currently, I'm focusing on:  
+- **Web Front-End Development** (HTML, CSS, JavaScript)  
+- **Pixel Art & Digital Illustration**  
+- Exploring other creative fields in tech and design  
 
-Here are some ideas to get you started:
+I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Tools I Use  
+- HTML, CSS, JavaScript  
+- TailwindCSS  
+- Git & GitHub  
+- Pixel Art Software (Aseprite, etc.)  
+- Figma / Graphic Design Tools  
+
+---
+
+## 🌟 Fun Fact  
+I believe **technology + art = endless creativity** ✨  
+
+---
+
+## 📫 Let's Connect  
+- Instagram: [@pixkyro](https://instagram.com/pixkyro)  
+- GitHub: [github.com/elang](https://github.com/elang)
+
+> "It is never too late to be what you might have been." - George Eliot
