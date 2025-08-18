@@ -17,7 +17,7 @@ I enjoy turning ideas into something visual and interactive, whether it's throug
 - TailwindCSS  
 - Git & GitHub  
 - Pixel Art Software (Aseprite/Libresprite, etc.)  
-- Figma / Graphic Design Tools  
+- Canva / Graphic Design Tools  
 
 ---
 
