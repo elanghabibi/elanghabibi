@@ -21,11 +21,6 @@ I enjoy turning ideas into something visual and interactive, whether it's throug
 
 ---
 
-## 🌟 Fun Fact  
-I believe **technology + art = endless creativity** ✨  
-
----
-
 ## 📫 Let's Connect  
 - Instagram: [@elanghabibi](https://instagram.com/elanghabibi)  
 - GitHub: [github.com/elanghabibi](https://github.com/elanghabibi)
