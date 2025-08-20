@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Creative Tech Enthusiast who loves blending technology with creativity.<br>Currently, I'm focusing on:<br><br>Web Front-End Development (HTML, CSS, JavaScript)<br>Pixel Art<br>3D Modelling<br>Exploring other creative fields in tech and design<br>I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.
+I'm a Creative Tech Enthusiast who loves blending technology with creativity.<br>Currently, I'm focusing on:
+- **Web Front-End Development (HTML, CSS, JavaScript)**
+- **Pixel Art<br>3D Modelling**
+- **Exploring other creative fields in tech and design**
+I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.
 
 
 ## 🌐 Socials:
