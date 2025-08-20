@@ -3,6 +3,7 @@ I'm a Creative Tech Enthusiast who loves blending technology with creativity.<br
 - **Web Front-End Development (HTML, CSS, JavaScript)**
 - **Pixel Art<br>3D Modelling**
 - **Exploring other creative fields in tech and design**
+
 I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.
 
 
