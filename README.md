@@ -26,5 +26,6 @@ I enjoy turning ideas into something visual and interactive, whether it's throug
 - GitHub: [github.com/elanghabibi](https://github.com/elanghabibi)
 - LinkedIn: [www.linkedin.com/in/elangalamsyahhabibi](https://www.linkedin.com/in/elangalamsyahhabibi)
 - Itch.io: [Pixkyro Studio](https://pixkyrostudio.itch.io)
+- [My Portfolio](https://elanghabibi.github.io/portfolio)
 
 > "It is never too late to be what you might have been." - George Eliot
