@@ -6,11 +6,18 @@
 
 ###
 
-<h1 align="left">💫 About Me:</h1>
+#💫 About Me:
 
 ###
 
-<p align="left">I'm a Creative Tech Enthusiast who loves blending technology with creativity.<br><br>Currently, I'm focusing on:<br>- **Web Front-End Development (HTML, CSS, JavaScript)**<br>- **Pixel Art<br>3D Modelling**<br>- **Exploring other creative fields in tech and design**<br><br>I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.</p>
+I'm a Creative Tech Enthusiast who loves blending technology with creativity.
+
+Currently, I'm focusing on:
+- **Web Front-End Development (HTML, CSS, JavaScript)**
+- **Pixel Art<br>3D Modelling**
+- **Exploring other creative fields in tech and design**
+
+I enjoy turning ideas into something visual and interactive, whether it's through clean and modern web interfaces or expressive pixel art.
 
 ###
 
