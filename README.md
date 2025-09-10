@@ -10,7 +10,7 @@
 
 ###
 
-I'm a Creative Tech Enthusiast who loves blending technology with creativity.
+I'm a **Creative Tech Enthusiast** who loves blending technology with creativity.
 
 Currently, I'm focusing on:
 - **Web Front-End Development (HTML, CSS, JavaScript)**
