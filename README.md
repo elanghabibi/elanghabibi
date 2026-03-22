@@ -13,7 +13,7 @@
 I'm a **Creative Tech Enthusiast** who loves blending technology with creativity.
 
 Currently, I'm focusing on:
-- **Web Front-End Development (HTML, CSS, JavaScript)**
+- **Web Development**
 - **Pixel Art, 3D Modelling**
 - **Exploring other creative fields in tech and design**
 
